@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+    <string name="trivia">Trivia</string>
+    <string name="trueButton">True</string>
+    <string name="falseButton">False</string>
+    <string name="prevButton">TODO</string>
+    <string name="nextButton">TODO</string>
+    <string name="counter">0 / 0</string>
+    <string name="questionText">Please wait while connecting ...</string>
+    <string name="best_score">Best Score:0</string>
+    <string name="score">Score:0</string>
+
+</resources>
